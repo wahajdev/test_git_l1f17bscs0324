@@ -1,3 +1,4 @@
-Name: Wahaj
+Name: M. Wahaj
 Email: wahaj.dkz5598@ucp.edu.pk
 Designation: Undergraduate Student.
+Institute: UCP
